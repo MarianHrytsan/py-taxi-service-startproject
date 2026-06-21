@@ -1,4 +1,4 @@
-# Python
+
 __pycache__/
 *.py[cod]
 *.pyo
@@ -21,3 +21,5 @@ db.sqlite3
 
 .idea/
 *.swp
+
+taxi/migrations
