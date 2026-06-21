@@ -18,6 +18,6 @@ db.sqlite3
 /staticfiles
 
 # IDE
-.vscode/
+
 .idea/
 *.swp
