@@ -3,12 +3,12 @@ __pycache__/
 *.py[cod]
 *.pyo
 
-# Virtualenv
+
 .venv/
 env/
 venv/
 
-# Django
+
 *.log
 *.pot
 *.pyc
@@ -17,7 +17,7 @@ db.sqlite3
 /media
 /staticfiles
 
-# IDE
+
 
 .idea/
 *.swp
